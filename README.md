@@ -2,7 +2,7 @@
  
 **Cadrage d'un projet IA**  
 <img src="/img/cadre.jpg" width="150"> <img src="/img/pit.jpg" width="150"> <img src="/img/agile.png" width="150">  
-<img src="/img/roi.png" width="150"> <img src="/img/risk.png" width="150"> <img src="/img/rgpd.png" width="150">  
+<img src="/img/roi.png" width="150">  <img src="/img/rgpd.png" width="150">  
   
   
 L'enjeu consiste à réaliser le cadrage d'un projet à présenter à un comité dirigeant:
