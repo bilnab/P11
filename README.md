@@ -1,10 +1,9 @@
-# P11  
+# P11 : Cadrage d'un projet IA  
  
-**Cadrage d'un projet IA**  
 <img src="/img/cadre.jpg" width="150"> <img src="/img/pit.jpg" width="150"> <img src="/img/agile.png" width="150">  
 <img src="/img/roi.png" width="150">  <img src="/img/rgpd.png" width="150">  
   
-  
+## Enjeu 
 L'enjeu consiste à réaliser le cadrage d'un projet à présenter à un comité dirigeant:
 <img src="/img/pitch.png" width="800">  
 * pas de code ici
